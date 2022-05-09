@@ -1,4 +1,4 @@
-### Olá meu nome é Yuri Donato!! :brazil:
+### Olá meu nome é Yuri Donato!! :flag_brazil:
 
 <!--
 **YuriDonato/YuriDonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
