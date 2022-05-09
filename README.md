@@ -1,5 +1,5 @@
 ### Olá meu nome é Yuri Donato!! 
-### Bem Vindo ao meu Git-Hub :D
+### Bem Vindo ao meu GitHub :D
 
 <!--
 **YuriDonato/YuriDonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
