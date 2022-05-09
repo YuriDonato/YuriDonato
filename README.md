@@ -26,3 +26,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Yuri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 </div>
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuridonato)](https://github.com/anuraghazra/github-readme-stats)
+
