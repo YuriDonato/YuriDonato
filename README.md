@@ -1,23 +1,12 @@
-### Olá meu nome é Yuri Donato!! 
-### Bem Vindo ao meu GitHub :D
-
-<!--
-**YuriDonato/YuriDonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello! Im Yuri Donato
+### Welcome to my GitHub
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDonato\&layout=compact) 
+[![Codewars Badge](https://www.codewars.com/users/YuriDonato/badges/large)](https://www.codewars.com/users/YuriDonato)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=YuriDonato)](https://github.com/YuriDonato/github-readme) -->
+<img src="https://myreadme.vercel.app/api/embed/YuriDonato?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 <!--
 <div style="display: inline_block"><br>
   <img align="center"  alt="Yuri-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
